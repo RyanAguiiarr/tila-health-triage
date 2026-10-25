@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Link da Aplicação em Produção
-* **Streamlit Cloud:** [https://tila-health-triage.streamlit.app/](https://tila-health-triage.streamlit.app/)
+* **Streamlit Cloud:** [https://tila-health-triage-7dupev3q3cmsbqxsks8t9x.streamlit.app/](https://tila-health-triage-7dupev3q3cmsbqxsks8t9x.streamlit.app/)
 * **Repositório GitHub:** [https://github.com/RyanAguiiarr/tila-health-triage](https://github.com/RyanAguiiarr/tila-health-triage)
 
 ---
